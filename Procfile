@@ -1,1 +1,1 @@
-web: node --experimental-modules src/app
+web: node --experimental-modules --es-module-specifier-resolution=node src/app
