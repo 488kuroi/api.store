@@ -4,6 +4,9 @@
   "main": "src",
   "private": true,
   "type": "module",
+  "engines": {
+    "node": "15.x"
+  },
   "scripts": {
     "start": "node .",
     "test": "jest",
