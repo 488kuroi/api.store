@@ -1,3 +1,4 @@
-require('@babel/register')
 
-exports = module.exports = require('./app')
+require('@babel/register');
+
+module.exports = require('./app')
